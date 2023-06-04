@@ -1,5 +1,5 @@
 <div align="center">
-      <h1> <img src="   " width="80px"><br/>house_price_prediction</h1>
+      
      </div>
 
 
